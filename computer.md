@@ -22,11 +22,11 @@
                            
                           
 ###### Answer
-→ No computer is not smart or intelligence machine because it just follow the instrction          (computation) which is given by us. Any thing is smart or intelligence if it's able to think    and do with own instruciton but in computer we give a instruction just computer follow it       without understanding so, it's "the dump machine" just following the instruciton faster.
+→ No computer is not smart or intelligence machine because it just follow the instrction (computation) which is given by us. Any thing is smart or intelligence if it's able to think and do with own instruciton but in computer we give a instruction just computer follow it without understanding so, it's "the dump machine" just following the instruciton faster.
 
 ________________________________________________________________________________________________
 
-# IPOS
+# Computer Cycle
 
 ###### Question
 + Is really computer can do multitasking ?
