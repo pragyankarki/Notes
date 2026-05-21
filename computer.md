@@ -32,6 +32,7 @@ ________________________________________________________________________________
 
 ## IPOS
 + Computer follow IPOS cycle:
+  
      ![IPOS_Diagram](ipos.png "IPOS_Diagram")
 ## Input
 + Data and istruction entered to computer.
@@ -84,14 +85,15 @@ ________________________________________________________________________________
         + less number of core
           
              ![CPU](cpu.png)
-+ #### GPU (Graphical Processing Unit)
-    + Used to perform heavy task.
-    + GPU is optimize for parallel work.
-    + It process data parallely.
-    + High number of core
-      
-         ![GPU](gpu.png)
-      
+          
+    + #### GPU (Graphical Processing Unit)
+        + Used to perform heavy task.
+        + GPU is optimize for parallel work.
+        + It process data parallely.
+        + High number of core
+        
+           ![GPU](gpu.png)
+        
  ###### Answer
 → No computer is not multitasking machine, in deep down chip level computer do a one task at a    time just the speed of it's too fast so it seems performing multipile task.
 
