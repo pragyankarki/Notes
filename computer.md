@@ -17,10 +17,10 @@
 + In computation : A set of instruction (program) is written in computer to take the input perform operation and give output while performing this it store the data and computer just follow it.
   
    + **Input(Data)→ Processes(Operation) → Output(information)**
-   + 
-                           $\downarrow$ 
-                           | **Storage** |
-
+                        $\downarrow$
+                         | **Storage** |
+                           
+                          
 ###### Answer
 → No computer is not smart or intelligence machine because it just follow the instrction          (computation) which is given by us. Any thing is smart or intelligence if it's able to think    and do with own instruciton but in computer we give a instruction just computer follow it       without understanding so, it's "the dump machine" just following the instruciton faster.
 
