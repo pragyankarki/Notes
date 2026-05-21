@@ -30,6 +30,7 @@ ________________________________________________________________________________
 ###### Question
 + Is really computer can do multitasking ?
 
+##IPOS
 + Computer follow IPOS cycle:
     + ![IPOS_Diagram](ipos.png "IPOS_Diagram")
 ## Input
