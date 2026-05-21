@@ -30,9 +30,9 @@ ________________________________________________________________________________
 ###### Question
 + Is really computer can do multitasking ?
 
-##IPOS
+## IPOS
 + Computer follow IPOS cycle:
-    + ![IPOS_Diagram](ipos.png "IPOS_Diagram")
+     ![IPOS_Diagram](ipos.png "IPOS_Diagram")
 ## Input
 + Data and istruction entered to computer.
 + Input device are use to input data.
@@ -81,13 +81,15 @@ ________________________________________________________________________________
         + Used for the general purpose task.
         + CPU is optimize for series work.
         + It process data one by one.
-        + less number of core 
+        + less number of core
+          
              ![CPU](cpu.png)
 + #### GPU (Graphical Processing Unit)
     + Used to perform heavy task.
     + GPU is optimize for parallel work.
     + It process data parallely.
     + High number of core
+      
          ![GPU](gpu.png)
       
  ###### Answer
