@@ -14,9 +14,10 @@
     + Computation → just follow instruction.
     + Calculatio  → Intution (use of brain).
 
-+ In computation : A set of instruction (program) is written in computer to take the input                       perform operation and give output while performing this it store the data                     and computer just follow it.
++ In computation : A set of instruction (program) is written in computer to take the input perform operation and give output while performing this it store the data and computer just follow it.
   
    + **Input(Data)→ Processes(Operation) → Output(information)**
+   + 
                            $\downarrow$ 
                            | **Storage** |
 
